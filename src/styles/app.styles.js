@@ -8,7 +8,7 @@ export default StyleSheet.create({
     alignItems: 'center',
   },
   Title: {
-    fontFamily: 'TF13',
+    fontFamily: 'T1',
     fontSize: 40,
     color: '#000',
   },
